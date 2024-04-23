@@ -1,7 +1,7 @@
 usage: 
-\n
+\\n
 $ javac -d bin -cp bin src/*.java 
-\n
+\\n
 $ java -cp bin HeartsGUI <player name>
-\n
+\\n
 $ java -cp bin HeartsGUI <player name> -t (for testing mode)
